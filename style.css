@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 90%;
+}
+
+.col {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.container h1 {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.aw {
+  /* cursor: progress; */
+  /* cursor: alias; */
+  /* cursor: all-scroll; */
+  /* cursor: none; */
+  /* cursor: move; */
+  /* cursor: se-resize; */
+  /* cursor: text; */
+  /* cursor: wait; */
+  /* cursor: -webkit-grabbing; */
+  cursor: no-drop;
+  margin: 0 440px;
+  padding: 10px 56px;
+  border-radius: 12px;
+  border: none;
+  background: orange;
+}
